@@ -1,9 +1,19 @@
 # `angular-seed` — the seed for AngularJS apps
 
 <!-- repo-entrypoint-guide:start -->
-> **Repository context:** This README documents the upstream AngularJS seed project and retains its original usage instructions. This copy is hosted at `scottjoyner/angular-seed`; clone that address if you want this specific checkout rather than the upstream example referenced below.
->
-> **Before reuse:** AngularJS and parts of the original Node/Protractor toolchain are legacy software. Check dependency versions and compatibility before installing or exposing this project.
+## Repository guide
+
+**Repository context:** This README documents the upstream AngularJS seed project and retains its original usage instructions. This copy is hosted at `scottjoyner/angular-seed`; clone that address if you want this specific checkout rather than the upstream example referenced below.
+
+**Before reuse:** AngularJS and parts of the original Node/Protractor toolchain are legacy software. Check dependency versions and compatibility before installing or exposing this project.
+
+### Find your way
+
+- [Getting Started](#getting-started)
+- [Directory Layout](#directory-layout)
+- [Testing](#testing)
+- [Updating AngularJS and other dependencies](#updating-angularjs-and-other-dependencies)
+- [Loading AngularJS Asynchronously](#loading-angularjs-asynchronously)
 <!-- repo-entrypoint-guide:end -->
 
 
